@@ -8,7 +8,7 @@ subreddits:
 start_month: '2017_01'   
 end_month: '2017_12'
 max_posts: 1000   # by subreddit 
-download_only: True
+download_only: False
 
 # Model training config
 num_epochs: 5
