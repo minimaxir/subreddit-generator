@@ -50,3 +50,7 @@ Max Woolf ([@minimaxir](http://minimaxir.com))
 ## License
 
 MIT
+
+## Credits
+
+[Jason Baumgartner](https://twitter.com/jasonbaumgartne) for collecting the Reddit data, and [Felipe Hoffa](https://twitter.com/felipehoffa) for putting it in BigQuery.
