@@ -2,7 +2,7 @@
 
 ![dank](textgenrnn_console.gif)
 
-Train a neural network optimized for Reddit subreddit posts based off of any number of subreddit submissions! Subreddit Generator automatically downloads as many Reddit submissions as you want from as many subreddits as you want. Blend wildly different subredditsfor hilarity!
+Train a neural network optimized for Reddit subreddit posts based off of any number of subreddits! Subreddit Generator automatically downloads as many Reddit submissions as you want from as many subreddits as you want. Blend wildly different subredditsfor hilarity!
 
 Subreddit Generator is based off of [textgenrnn](https://github.com/minimaxir/textgenrnn), and trains the network using context labels for better submission synthesis.
 
